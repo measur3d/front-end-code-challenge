@@ -98,7 +98,7 @@ connection. The available endpoints are [documented below](#mock-api).
 ### Mock API
 
 The mock data API is available through http://localhost:3000/api/, which is
-proxied to an express server running on port 3001 that servs the contensts of
+proxied to an express server running on port 3001 that servs the contents of
 the `data/` folder. You can make HTTP `GET` requests against the following endpoints:
 
 #### GET /api/partners
