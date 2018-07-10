@@ -18,7 +18,7 @@ interview and will use what you produce for this challenge as a starting
 point for our chat.
 
 Cheers!  
-The Avametrci Team
+The Avametric Team
 
 ## Overview
 
