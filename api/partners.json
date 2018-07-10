@@ -1,0 +1,35 @@
+{
+  "acme": {
+    "id": "acme",
+    "name": "Acme, LLC",
+    "web": "https://www.acme.com/",
+    "logo": {
+      "url": "http://via.placeholder.com/300?text=Acme",
+      "thumb": {
+        "url": "http://via.placeholder.com/100?text=Acme"
+      }
+    }
+  },
+  "delta": {
+    "id": "delta",
+    "name": "Delta Inc",
+    "web": "https://www.delta.com/",
+    "logo": {
+      "url": "http://via.placeholder.com/300?text=Delta",
+      "thumb": {
+        "url": "http://via.placeholder.com/100?text=Delta"
+      }
+    }
+  },
+  "bongo": {
+    "id": "bongo",
+    "name": "Bongo USA",
+    "web": "https://www.bongo.com/",
+    "logo": {
+      "url": "http://via.placeholder.com/300?text=Bongo",
+      "thumb": {
+        "url": "http://via.placeholder.com/100?text=Bongo"
+      }
+    }
+  }
+}
