@@ -25,7 +25,7 @@ We have created a simple [NodeJS](https://nodejs.org) application which:
 1. Bundles your source code and serves it through http://localhost:3000/
 2. Provides **mock** data through http://localhost:3000/api/
 
-Your challenge is to build something interesting that makes use of either the mock data provided. 
+Your challenge is to build something interesting that makes use of the mock data provided. 
 
 You can choose whichever technologies you like to create this application. Feel
 free to make changes to _any_ of the files in this repository, or to swap out
