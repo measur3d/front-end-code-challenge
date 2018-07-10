@@ -72,6 +72,9 @@ to complete and how you would plan to further develop/improve the application
 given more time. Please include them in this readme rather than in an email so
 that others can see them when we share your work internally.
 
+### Your Notes Go Here
+
+
 We are looking for creativity, originality, and a good user experience in your
 **application** if that's an area you focused on.
 
