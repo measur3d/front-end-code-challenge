@@ -10,12 +10,10 @@ coding skills. We think (and hope you agree) that this is better than asking
 you to scribble algorithms on a whiteboard in an interview setting.
 
 We realize that this represents a significant investment of effort, but one we
-hope will be worthwhile for both you and us. Even if your application to Avametric is ultimately unsuccessful, you are more than welcome to use what you
+hope will be worthwhile for both you and us. Even if your application to Avametric ultimately doesn't end up being the right fit, you are more than welcome to use what you
 produce for this challenge in your personal portfolio.
 
-If you are successful then we'll invite you to our offices for a face-to-face
-interview and will use what you produce for this challenge as a starting
-point for our chat.
+If you are successful then we'll schedule you for an interview and will use what you produce for this challenge as a starting point for our discussions.
 
 Cheers!  
 The Avametric Team
@@ -54,7 +52,7 @@ any of the technologies we've provided. It's your party. 😎
 
 Email us once you have finished and send us the URL to your fork of this repository.
 If you are not already in contact with one of us, you can send your email to
-[jobs@avametric.com](mailto:jobs@avametric.com).
+[avantha@avametric.com](mailto:avantha@avametric.com).
 
 If your fork is not publicly available, just let us know and we will send you the
 GitHub users you can give direct access. Feel free to create a throwaway GitHub
