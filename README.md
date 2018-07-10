@@ -69,11 +69,7 @@ a pretty UI.
 
 You are encouraged to include some notes about the aspects you didn't get time
 to complete and how you would plan to further develop/improve the application
-given more time. Please include them in this readme rather than in an email so
-that others can see them when we share your work internally.
-
-### Your Notes Go Here
-
+given more time. Please include them in the bottom of this readme rather than in an email so that others can see them when we share your work internally.
 
 We are looking for creativity, originality, and a good user experience in your
 **application** if that's an area you focused on.
@@ -132,6 +128,7 @@ For Example:
 http://localhost:3000/api/partners/acme/bodies/female
 ```
 
+## Your Notes Go Here
 
 ## License
 
